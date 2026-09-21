@@ -14,7 +14,8 @@
 | [01_positioning.md](docs/01_positioning.md) | ポジショニング戦略。3層コンテンツ設計、ペルソナP1〜P4 |
 | [02_site_tree.md](docs/02_site_tree.md) | **サイト構成ツリーマップ**。内部リンク設計、CV着地点マップ |
 | [03_content_plan.md](docs/03_content_plan.md) | **M0〜M6の記事投下計画**、18ヶ月ロードマップ、サイト名案 |
-| [04_decisions.md](docs/04_decisions.md) | 意思決定ログ D-001〜D-007、未決定事項 |
+| [04_decisions.md](docs/04_decisions.md) | 意思決定ログ D-001〜D-008、未決定事項 |
+| [05_asp_portfolio.md](docs/05_asp_portfolio.md) | **案件ポートフォリオ（ASP実データ版）**。実効単価による案件選定、収益モデル再計算 |
 
 ### 調査（research/）
 | ファイル | 内容 |
@@ -38,7 +39,8 @@
 **数値は全て公開情報ベースの推定**です。以下を手元で検証してください。
 
 1. 🔴 主要KWで実際にGoogle検索し、上位10件を自分の目で確認する（30分）
-2. 🔴 ASP（**PRESCO** / A8 / afb / アクセストレード）に登録し、保育士案件の実単価・成果地点・承認条件を確認する
+2. ✅ ~~ASPで実単価を確認~~ → **A8・もしも分は完了**（[docs/05_asp_portfolio.md](docs/05_asp_portfolio.md)）
+   残タスク：保育士人材バンクの提携申請／**PRESCO**・**アクセストレード**への登録
 3. 🟡 ラッコキーワード等で実検索ボリュームを取得し、`research/02_keywords.csv` を上書き
 4. 🟡 上位競合3社の記事を実際に読み、文字数・見出し構成・CTA位置を記録
 
